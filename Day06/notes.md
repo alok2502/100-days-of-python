@@ -1,4 +1,4 @@
-# 🐍 100 Days of Python – Day 6
+# 🐍 100 Days of Python – Day 6 
 
 ## Topic: Functions and While Loops
 
