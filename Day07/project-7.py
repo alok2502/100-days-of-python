@@ -42,7 +42,7 @@ while not game:
 
     if "_" not in display:
         game = True
-        print("*******************you win !!****************")
+        print("*******************you win !!*****************")
     
     print(stages[total_life])
     
