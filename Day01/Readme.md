@@ -1,4 +1,4 @@
-# Day 01 – Python Basics & First Project
+# Day 01 – Python Basics & First Project 
 
 ## ✅ Topics Covered
 - Printing statements with `print()`
