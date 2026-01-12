@@ -13,12 +13,12 @@ while more_people:
     more_people = input("Do we have more people ? Y or N").lower()
     if more_people == "y":
         print("\n"*100)
-    if more_people == "n":
+    elif more_people == "n":
         max_amount = 0
         for key in auction_dict:
             if auction_dict[key]>max_amount:
                 max_amount = auction_dict[key]
-        print(f"{key} bid is highest of ${auction_dict[key]}")
+        print(f"{key}'s bid is highest of ${auction_dict[key]}")
         more_people=False
 
 
