@@ -30,7 +30,7 @@ This helped in understanding how dictionaries are dynamic and mutable.
 
 ### Nesting in Dictionaries
 Learned about **nesting**, which means:
-- A dictionary inside another dictionary
+- A dictionary inside another dictionarys
 - A list inside a dictionary
 - A dictionary inside a list
 
