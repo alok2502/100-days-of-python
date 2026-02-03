@@ -10,4 +10,4 @@ def fizz_buzz(target):
         else:
             print(f"{number}")
 
-fizz_buzz(20)
+fizz_buzz(20) 
